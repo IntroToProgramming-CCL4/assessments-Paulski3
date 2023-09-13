@@ -1,0 +1,7 @@
+print ('My name is Paul Christian Bayor Sevillejo')
+print ('Born in 2005 Sept 12')
+print ('My hobbies are:')
+print ('1. Playing games')
+print ('2. Reading manhwa/webtoon and books')
+print ('3. Play sports')
+print ('4. Drawing')
