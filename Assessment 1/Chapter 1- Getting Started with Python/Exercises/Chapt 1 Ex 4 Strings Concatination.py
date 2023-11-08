@@ -1,3 +1,5 @@
-a,b,c='hi','hello','bye' #assigning 3 variables
+# Assigning 3 variables
+a, b, c = 'O', 'U', 'T'
 
-print(a,b,c) #printing 3 variables into one string
+# Printing 3 variables into one string
+print('\n' + a+b+c)
