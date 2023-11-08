@@ -1,3 +1,5 @@
-import sys #importing the system
+# Importing a constant
+import sys
 
-print("Python version: ",sys.version) #displays the python version 
+# Displays the python version
+print("\nPython version: ", sys.version)
