@@ -2,7 +2,7 @@
 name = "\tSun Tsu\n"
 
 # Using different strips
-print("Original:", name)  # Default
+print("\nOriginal:", name)  # Default
 print("Lstrip:", name.lstrip())  # Strips leftside whitespaces
 print("Rstrip:", name.rstrip())  # Strips rightside whitespaces
-print("Strip:", name.strip())  # Strips all whitespaces
+print("\nStrip:", name.strip())  # Strips all whitespaces
