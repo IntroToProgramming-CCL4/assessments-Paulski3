@@ -1,5 +1,5 @@
 # Assigning a variable of the quote with the author
-quote = 'Sun Tsu once said,“In the midst of chaos, there is also opportunity.'
+quote = '“In the midst of chaos, there is also opportunity.'
 
-# printing the output
-print(quote) 
+# Printing the quote with an author
+print('\nSun Tsu once said,' + quote)
