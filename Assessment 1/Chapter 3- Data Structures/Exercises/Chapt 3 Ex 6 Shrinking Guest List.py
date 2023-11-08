@@ -1,9 +1,10 @@
 # Chapt 3 Ex 4-5 program
 names = ['Phillip', 'EmJay', 'Julia', 'Conching', 'Juvy', 'Perlito']
+
 for name in names:
     print("Join me to dinner", name)
 
-print("\n", names[1], "Cant make to dinner\n")
+print("\n!" + names[1], "Cant make to dinner!\n")
 
 remove = names.pop(1)
 new = names.insert(1, 'Katkat ')
