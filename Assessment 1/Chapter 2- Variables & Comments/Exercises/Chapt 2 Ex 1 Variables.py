@@ -1,5 +1,7 @@
-x="Hello"
-print(x) #printing the value of the variable
+# Assigning the variable then printing it
+var = "\nHello!"
+print(var)
 
-x="Bye" #changing the value of the variable
-print(x) #print output
+# Updating the variable into a new message then printing it
+var = "How are you?"
+print(var)
