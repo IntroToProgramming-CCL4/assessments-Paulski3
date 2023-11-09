@@ -3,16 +3,16 @@ age = 18
 
 # Stage of life
 if age < 0:
-    print('You are unborn')
+    print('\nYou are unborn')
 elif 0 <= age < 2:
-    print('You are a baby')
+    print('\nYou are a baby')
 elif 2 <= age < 4:
-    print('You are a toddler')
+    print('\nYou are a toddler')
 elif 4 <= age < 13:
-    print('You are a kid')
+    print('\nYou are a kid')
 elif 13 <= age < 20:
-    print('You are a teenager')
+    print('\nYou are a teenager')
 elif 20 <= age < 65:
-    print('You are an adult')
+    print('\nYou are an adult')
 else:
-    print('You are an elder')
+    print('\nYou are an elder')
