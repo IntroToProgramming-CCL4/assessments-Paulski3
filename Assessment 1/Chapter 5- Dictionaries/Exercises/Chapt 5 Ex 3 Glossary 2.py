@@ -10,7 +10,7 @@ glossary = {'variables': 'Containers for storing data values.',
             'loop': 'Work through a collection of items, one at a time.',
             'list': 'A collection of items in a particular order.'}
 
-# Printing the glossary
+# Printing the glossary with a loop
 print('Glossary')
 for key, value in glossary.items():
     print('\n' + key.title() + ':', '\n', value)
